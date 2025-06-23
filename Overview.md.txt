@@ -1,0 +1,18 @@
+📬 Phishing Awareness Campaign – CEO Gift Card Scam & Slide Deck
+
+This repository contains a ready-to-use internal phishing awareness training campaign, focused on educating staff about common phishing tactics using a realistic simulation of a CEO gift card scam.
+
+
+## 🔍 Project Overview
+This project includes:
+- A PowerPoint presentation titled “Phishing Awareness 101: Stop. Think. Report.” with beginner-friendly slides explaining phishing threats, red flags, protection tips, and reporting processes.
+- A realistic phishing email template simulating a business email compromise (BEC) attack using the gift card scam technique.
+- A quiz scenario integrated into the deck to help employees identify phishing indicators.
+
+
+## 🧠 Learning Objectives
+- Understand what phishing is and how it targets employees
+- Identify common techniques such as email spoofing and urgency tactics
+- Recognize red flags in phishing emails
+- Know how and when to report suspicious messages
+
